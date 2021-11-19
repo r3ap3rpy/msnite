@@ -19,4 +19,4 @@ Upon completion we can serve our own stuff with the **python craft serve** comma
 Visiting the [/blog](http://127.0.0.1:8000/blog) url should look like this.
 
 
-![Blog](../Pictures/blog.jpg)
+![Blog](../Pictures/blog.PNG)

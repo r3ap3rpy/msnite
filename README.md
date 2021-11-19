@@ -57,7 +57,7 @@ Once the project is ready we can start to serve our app with **craft serve** com
 
 Something like this.
 
-![Logo](/Pictures/welcome.jpg)
+![Logo](/Pictures/welcome.PNG)
 
 
 Topics:
