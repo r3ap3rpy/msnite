@@ -63,3 +63,4 @@ Something like this.
 Topics:
 
 * [Creating a blog](/Guides/CreatingBlog.md)
+* [Authentication](/Guides/Authentication.md)
