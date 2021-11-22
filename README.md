@@ -65,3 +65,4 @@ Topics:
 * [Creating a blog](/Guides/CreatingBlog.md)
 * [Authentication](/Guides/Authentication.md)
 * [MySQL Auth](/Guides/MySQLAuth.md)
+* [Migrations](/Guides/Migrations.md)
