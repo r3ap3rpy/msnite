@@ -29,6 +29,7 @@ Open up mysql console and create the **masonite** database.
 
 ``` bash
 mysql -u root -p
+CREATE DATABASE masonite;
 CREATE TABLE masonite;
 ```
 
